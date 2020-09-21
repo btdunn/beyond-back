@@ -1,0 +1,25 @@
+{
+  "name": "beyondback",
+  "version": "1.0.0",
+  "description": "beyond backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/btdunn/beyond-back.git"
+  },
+  "author": "Ben Dunn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/btdunn/beyond-back/issues"
+  },
+  "homepage": "https://github.com/btdunn/beyond-back#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "knex": "^0.21.5",
+    "objection": "^2.2.3"
+  }
+}
