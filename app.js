@@ -1,7 +1,13 @@
 const express = require('express')
 const app = express()
 const axios = require("axios")
+const cors = require("cors")
+const bodyParser = require("body-parser")
 require('dotenv').config()
+
+app.use(cors())
+
+app.use(bodyParser.json())
 
 const api_key = process.env.API_KEY
 
