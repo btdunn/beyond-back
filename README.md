@@ -24,7 +24,7 @@ For the frontend, run npm install, and npm run serve to start the server. For th
 
 ## Video
 
-Video on [Youtube]()
+Video on [Youtube](https://www.youtube.com/watch?v=eSepP49B0Eg)
 
 ## Contact
 
